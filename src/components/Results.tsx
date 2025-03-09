@@ -19,7 +19,7 @@ const Results = () => {
       name: "Dip Charhate",
       achievement: "12th Board 91.5%",
       year: "2023",
-      image: "https://i.im.ge/2025/03/06/pXRX5c.dip1.jpeg"
+      image: "#"
     }
   ];
 
