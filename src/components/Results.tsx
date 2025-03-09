@@ -13,7 +13,7 @@ const Results = () => {
       name: "Sneha pajai",
       achievement: "MHT-CET 100 percentile",
       year: "2020",
-      image: "https://i.im.ge/2025/03/09/pFGUsf.1685601729713e1747267200vbetat-vE34hRLiMD92geFvbbd9OXgLDXkJN8v4W-mBhfzABc.jpeg"
+      image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80"
     },
     {
       name: "Dip Charhate",
