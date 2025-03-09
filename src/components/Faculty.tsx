@@ -12,8 +12,8 @@ const Faculty = () => {
     {
       name: "Mr.R.B.DIKE",
       subject: "Mathematics",
-      experience: "12+ years",
-      education: "Btech",
+      experience: "8+ years",
+      education: "Btech From Government College OF Engineering, Amravati",
       image: "https://i.im.ge/2025/03/06/pX8EV6.rbd1.jpeg"
     },
     {
