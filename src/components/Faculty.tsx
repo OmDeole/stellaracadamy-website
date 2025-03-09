@@ -5,14 +5,14 @@ const Faculty = () => {
     {
       name: "Mr.Rahul Jawanjal",
       subject: "Physics",
-      experience: "15+ years",
-      education: "Bachelor Of Engineering",
+      experience: "7+ years",
+      education: "Bachelor Of Engineering /n MBA From IIM,Pune",
       image: "https://i.im.ge/2025/03/06/pX8REh.rj1.jpeg"
     },
     {
       name: "Mr.R.B.DIKE",
       subject: "Mathematics",
-      experience: "12+ years",
+      experience: "8+ years",
       education: "Btech",
       image: "https://i.im.ge/2025/03/06/pX8EV6.rbd1.jpeg"
     },
