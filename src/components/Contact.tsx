@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { Phone, Mail, MapPin } from 'lucide-react';
 
 const Contact = () => {
@@ -56,7 +56,7 @@ const Contact = () => {
                   <Phone className="w-6 h-6 text-[#002147]" />
                   <div>
                     <p className="font-semibold">Phone</p>
-                    <p className="text-gray-600">+91 1234567890</p>
+                    <p className="text-gray-600">+91 9579325376</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">
@@ -71,8 +71,8 @@ const Contact = () => {
                   <div>
                     <p className="font-semibold">Address</p>
                     <p className="text-gray-600">
-                      123 Education Street, Knowledge Park,<br />
-                      Mumbai, Maharashtra 400001
+                    65, MH MSH 6, Vidarbha Housing Board Colony, Harde Nagar,<br />
+                    Paratwada, Maharashtra 444806
                     </p>
                   </div>
                 </div>

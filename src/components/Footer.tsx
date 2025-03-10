@@ -31,22 +31,22 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-bold mb-4">Contact</h3>
             <ul className="space-y-2 text-gray-300">
-              <li>123 Education Street</li>
-              <li>Mumbai, Maharashtra 400001</li>
-              <li>Phone: +91 1234567890</li>
+              <li>65, MH MSH 6, Vidarbha Housing Board Colony, Harde Nagar,</li>
+              <li>Paratwada, Maharashtra 444806</li>
+              <li>Phone: +91 9579325376</li>
               <li>Email: info@stellaracademy.com</li>
             </ul>
           </div>
           <div>
             <h3 className="text-xl font-bold mb-4">Follow Us</h3>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-300 hover:text-white">
+              <a href="https://www.facebook.com/stellar1academy" className="text-gray-300 hover:text-white">
                 <Facebook className="w-6 h-6" />
               </a>
               <a href="#" className="text-gray-300 hover:text-white">
                 <Twitter className="w-6 h-6" />
               </a>
-              <a href="#" className="text-gray-300 hover:text-white">
+              <a href="https://www.instagram.com/stellar_academy/" className="text-gray-300 hover:text-white">
                 <Instagram className="w-6 h-6" />
               </a>
               <a href="#" className="text-gray-300 hover:text-white">

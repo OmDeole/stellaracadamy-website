@@ -9,17 +9,17 @@ const Courses = () => {
       features: ["Regular Tests", "Doubt Solving Sessions", "Study Material", "Parent Updates"]
     },
     {
-      title: "MHT-CET Champion",
+      title: "MHT-CET",
       description: "Specialized coaching for Maharashtra Common Entrance Test",
       features: ["Topic-wise Practice", "Mock Tests", "Previous Year Papers", "Performance Analysis"]
     },
     {
-      title: "JEE Mains Achiever",
+      title: "JEE Mains",
       description: "Intensive preparation for JEE Mains examination",
       features: ["Concept Building", "Problem Solving", "Weekly Tests", "Online Resources"]
     },
     {
-      title: "JEE Advanced Elite",
+      title: "JEE Advanced",
       description: "Advanced level preparation for JEE Advanced",
       features: ["Advanced Concepts", "Expert Guidance", "Mock Tests", "Personal Mentoring"]
     }
