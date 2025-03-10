@@ -7,21 +7,21 @@ const Faculty = () => {
       subject: "Physics",
       experience: "7+ years",
       education: "Bachelor Of Engineering /n MBA in IIM,Pune",
-      image: "https://i.im.ge/2025/03/06/pX8REh.rj1.jpeg"
+      image: "https://i.im.ge/2025/03/10/p2ql5q.Screenshot-2025-03-10-224849.png"
     },
     {
       name: "Mr.R.B.DIKE",
       subject: "Mathematics",
       experience: "8+ years",
       education: "Btech From Government College OF Engineering, Amravati",
-      image: "https://i.im.ge/2025/03/06/pX8EV6.rbd1.jpeg"
+      image: "https://i.im.ge/2025/03/10/p2SYBh.Screenshot-2025-03-10-224823.png"
     },
     {
       name: "Dr.Graheshlata Jaiswal",
       subject: "Chemistry",
       experience: "10+ years",
       education: "PhD in Chemistry",
-      image: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80"
+      image: "https://i.im.ge/2025/03/10/p2S9Ya.Screenshot-2025-03-10-224738.png"
     }
   ];
 
@@ -42,7 +42,7 @@ const Faculty = () => {
               <img 
                 src={member.image}
                 alt={member.name}
-                className="w-full h-64 object-cover"
+                className="w-70 h-74 object-cover"
               />
               <div className="p-6">
                 <h3 className="text-xl font-semibold mb-2">{member.name}</h3>
