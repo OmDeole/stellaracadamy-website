@@ -9,7 +9,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center mb-4">
               <img 
-                src="logo.png" 
+                src="https://i.im.ge/2025/03/06/pXbREr.logofinal.png" 
                 alt="Stellar Academy Logo" 
                 className="h-10 w-auto mr-3"
               />
