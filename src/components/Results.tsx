@@ -57,7 +57,7 @@ const Results = () => {
         </div>
 
         <div className="mt-16 text-center">
-          {/* <div className="bg-gray-50 p-8 rounded-lg shadow-lg inline-block">
+          { <div className="bg-gray-50 p-8 rounded-lg shadow-lg inline-block">
             <h3 className="text-2xl font-bold text-[#002147] mb-4">Our Success Story</h3>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
               <div className="text-center">
@@ -65,7 +65,7 @@ const Results = () => {
                 <p className="text-gray-600">Students Selected in IITs</p>
               </div>
               <div className="text-center">
-                <div className="text-4xl font-bold text-[#002147]">1000+</div>
+                <div className="text-4xl font-bold text-[#002147]">100+</div>
                 <p className="text-gray-600">MHT-CET Top Rankers</p>
               </div>
               <div className="text-center">
@@ -77,7 +77,7 @@ const Results = () => {
                 <p className="text-gray-600">Years of Excellence</p>
               </div>
             </div>
-          </div> */}
+          </div> }
         </div>
       </div>
     </section>
