@@ -6,7 +6,7 @@ const Faculty = () => {
       name: "Mr.Rahul Jawanjal",
       subject: "Physics",
       experience: "7+ years",
-      education: "Bachelor Of Engineering /n MBA in IIM,Pune",
+      education: "Bachelor Of Engineering , MBA At IIM,Pune",
       image: "https://i.im.ge/2025/03/10/p2ql5q.Screenshot-2025-03-10-224849.png"
     },
     {
@@ -22,7 +22,13 @@ const Faculty = () => {
       experience: "10+ years",
       education: "PhD in Chemistry",
       image: "https://i.im.ge/2025/03/10/p2S9Ya.Screenshot-2025-03-10-224738.png"
-    }
+    },
+    {
+      name: "Mr.Chetan Joshi",
+      subject: "Biology",
+      experience: "10+ years",
+      image: "https://i.im.ge/2025/03/11/pSsh5T.Screenshot-2025-03-11-174314.png"
+  }
   ];
 
   return (
@@ -33,7 +39,7 @@ const Faculty = () => {
           <div className="w-20 h-1 bg-yellow-400 mx-auto"></div>
         </div>
 
-        <div className="grid md:grid-cols-3 gap-8">
+        <div className="grid md:grid-cols-4 gap-8">
           {faculty.map((member, index) => (
             <div 
               key={index}

@@ -22,7 +22,13 @@ const Courses = () => {
       title: "JEE Advanced",
       description: "Advanced level preparation for JEE Advanced",
       features: ["Advanced Concepts", "Expert Guidance", "Mock Tests", "Personal Mentoring"]
-    }
+    },
+    {
+      title: "NEET",
+      description: "Comprehensive preparation for the National Eligibility cum Entrance Test",
+      features: ["Conceptual Learning", "Mock Tests", "Expert Faculty", "Doubt Solving Sessions"],
+    },
+    
   ];
 
   return (
@@ -33,7 +39,7 @@ const Courses = () => {
           <div className="w-20 h-1 bg-yellow-400 mx-auto"></div>
         </div>
 
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid md:grid-cols-2 lg:grid-cols-5 gap-8">
           {courses.map((course, index) => (
             <div 
               key={index}
